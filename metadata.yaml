@@ -1,0 +1,38 @@
+_repo: Edward-the-Second_20288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Christopher
+    aliases:
+    - Marlow, Christopher
+    - Marloe, Christopher
+    - Marlo, Christopher
+    birthdate: 1564
+    deathdate: 1593
+    gutenberg_agent_id: '410'
+    url: http://www.gutenberg.org/2009/agents/410
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
+description: Edward II is a Renaissance or Early Modern period play written by Christopher
+  Marlowe. It is one of the earliest English history plays. The full title of the
+  first publication is The Troublesome Reign and Lamentable Death of Edward the Second,
+  King of England, with the Tragical Fall of Proud Mortimer.-- Excerpted from Wikipedia,
+  the free encyclopedia.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Edward II, 1307-1327 -- Drama'
+- !lcsh 'Edward II, King of England, 1284-1327 -- Drama'
+title: Edward the Second
+url: http://www.gutenberg.org/ebooks/20288
